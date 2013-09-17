@@ -11,6 +11,10 @@ double monthlySalary;
 public Employee( String last, String first, double monthly ){
 
 //If the user inputs < 0 the program will tell them they made no income
+
+	lastName=last;
+	firstName=first;
+	monthlySalary=monthly;
 	if ( monthly > 0 )
   		monthlySalary = monthly;
 	else
@@ -29,6 +33,7 @@ public String getLastName(){
 }
 public void setFirstName( String first){
 		firstName=first;
+}
 
 public String getFirstName(){
  		return firstName;
