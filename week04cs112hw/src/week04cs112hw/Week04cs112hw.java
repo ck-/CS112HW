@@ -7,7 +7,7 @@ package week04cs112hw;
  */
 import java.util.Scanner;
 
-public class Week04cs112hw
+public class Week04cs112hw{
  
     public static void main(String[] args) {
         Scanner userInput = new Scanner( System.in );
