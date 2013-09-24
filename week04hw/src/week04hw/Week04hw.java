@@ -1,10 +1,9 @@
-
 package week04hw;
 
 /**
  *
  * @author Andrew Florance
- * Week 4 HW, Thirsty or Not?
+ * Week 4 HW, thirsty or not?
  */
 import java.util.Scanner;
 
