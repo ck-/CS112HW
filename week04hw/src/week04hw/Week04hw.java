@@ -16,13 +16,13 @@ public class Week04hw {
 	int drink;
 	int drink2;
 	int drink3;
-	//Ask user if they are hungry
+	//Ask user if they are thirsty
 	System.out.println("Hungry\nGet in line\nThirsty? Please press 1 if thirst 2 if not\n");
         
 	//Store UserINput
 	drink = userInput.nextInt();
            
-        //Figure out if the customer is thirsty
+        //Figure out if the customer is thirsty, if not listen eat lunch then leave.
                 //If the customer had breakfast but is thirsty give them a diet coke.
 		if (drink==1){
 
