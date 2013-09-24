@@ -1,4 +1,4 @@
-package week04hw;
+package week04cs112hw;
 
 /**
  *
@@ -7,8 +7,7 @@ package week04hw;
  */
 import java.util.Scanner;
 
-public class Week04hw {
-
+public class Week04cs112hw{
  
     public static void main(String[] args) {
         Scanner userInput = new Scanner( System.in );
