@@ -16,7 +16,7 @@ public class Week04hw {
 	int drink;
 	int drink2;
 	int drink3;
-	//Ask user if they are thirsty
+	//Ask user if they are thirsty.
 	System.out.println("Hungry\nGet in line\nThirsty? Please press 1 if thirst 2 if not\n");
         
 	//Store UserINput
